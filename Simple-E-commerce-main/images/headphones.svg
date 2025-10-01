@@ -1,0 +1,7 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#f0f0f0"/>
+  <circle cx="100" cy="100" r="40" fill="#333" stroke="#666" stroke-width="3"/>
+  <circle cx="200" cy="100" r="40" fill="#333" stroke="#666" stroke-width="3"/>
+  <path d="M 100 60 Q 150 40 200 60" stroke="#666" stroke-width="8" fill="none"/>
+  <text x="150" y="160" text-anchor="middle" font-family="Arial" font-size="14" fill="#666">Wireless Headphones</text>
+</svg>
